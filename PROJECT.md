@@ -40,7 +40,9 @@ Current Phase:
 
 Current Step:
 
-⬜ Step 1 — Marketplace Collector
+✅ Step 1 Complete
+
+⬜ Step 2 - Navigator
 
 ---
 
