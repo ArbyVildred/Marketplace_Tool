@@ -17,3 +17,16 @@ data/scans/
 *.db
 
 *.sqlite
+
+# Chrome Profiles
+chrome-profile/
+chrome-user-data/
+profile/
+profiles/
+
+# Browser Sessions
+*.session
+
+# Local configuration
+config/local.settings.json
+config/settings.local.json
